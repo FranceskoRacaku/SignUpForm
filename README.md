@@ -5,4 +5,4 @@ a Password, a password confirmation and email address.
 Also it checks that all the fields are filled and if the password match.
 
 
-![](SignForm.png)
+![](SignForm.png | width=100)
